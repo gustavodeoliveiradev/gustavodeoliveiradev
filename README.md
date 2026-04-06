@@ -3,7 +3,7 @@
 # 🐉 Gustavo // Saiyan Developer 
 
 ### 🌌 Mentalidade de Superação
-> **"You don't need to know everything, you just need to keep learning."**
+> **"A master has failed more times than a beginner has even tried."**
 > — *Estudando para superar meus limites.*
 
 ---
