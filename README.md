@@ -3,7 +3,7 @@
 # 🐉 Gustavo // Saiyan Developer 
 
 ### 🌌 Mentalidade de Superação
-> **"A master has failed more times than a beginner has even tried."**
+> **"Persistence is the secret compiler of successful developers."**
 > — *Estudando para superar meus limites.*
 
 ---
