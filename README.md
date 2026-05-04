@@ -1,32 +1,52 @@
 <div align="center">
 
-# 🐉 Gustavo // Saiyan Developer 
+# 🐉 Gustavo // Saiyan Developer
 
-### 🌌 Mentalidade de Superação
-> **"Struggling with a bug is just your logic leveling up."**
-> — *Estudando para superar meus limites.*
+*"Estudando para superar meus limites, assim como o Gohan na Sala do Tempo!"* ⏰🐉
 
 ---
 
-## 🔬 O Laboratório do Gohan: Meus Estudos
+## 📜 Frase da Semana
 
-### 🛠️ Arsenal Tecnológico (Skills)
-**Frontend:** JavaScript (ES6+) • React • CSS3  
-**Backend:** Node.js (v24.14.0)  
-**Estética:** Glassmorphism • Neon • Animations
-
----
-
-## 🛡️ Projetos em Destaque
-**Neon Eclipse Protocol** • **Dragon Radar** • **3D Personal Card**
+> **"Bugs are just the universe asking: 'How bad do you want to learn this?"**
+>
+> 🔄 *Atualizada semanalmente para te manter motivado!*
 
 ---
 
-## 🌐 Conectar com o Clã Saiyan
-[**LinkedIn**](https://linkedin.com/in/lgustavodeoliveira) | [**GitHub**](https://github.com/gustavodeoliveiradev)
+## 👨‍💻 Sobre Mim
+
+Desenvolvedor apaixonado por tecnologia, inspirado pela jornada de crescimento do Gohan. Acredito que cada erro é um treinamento e cada projeto é uma nova transformação!
+
+### 🛠️ Tecnologias
+
+**Frontend:** JavaScript, React, CSS3, HTML5
+**Backend:** Node.js, Express, Python
+**Banco de Dados:** MongoDB
+**Ferramentas:** Git, GitHub
+
+**Estilo:** Glassmorphism • Neon Effects • Animations
 
 ---
 
-🚀 *Build, break, and build again.*
+## 🎯 Foco Atual
+
+**CV Generator** • **BarberShop Z** • **Dragon Radar Calculator**
+
+---
+
+## 💭 Filosofia
+
+> *"Assim como o Gohan, acredito que o verdadeiro poder vem da proteção daqueles que amamos. Cada linha de código é um passo para tornar o mundo melhor!"*
+
+---
+
+## 🌐 Vamos Conectar?
+
+[LinkedIn](https://linkedin.com/in/lgustavodeoliveira) • [GitHub](https://github.com/gustavodeoliveiradev) • [Email](mailto:seuemail@example.com)
+
+---
+
+🚀 *"Build, break, and build again. Nunca desista de codar!"* 💻🐉
 
 </div>
