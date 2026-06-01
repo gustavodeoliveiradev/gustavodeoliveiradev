@@ -8,7 +8,7 @@
 
 ## 📜 Frase da Semana
 
-> **"Bugs are just the universe asking: 'How bad do you want to learn this?"**
+> **"Ugly bugs → beautiful code. That’s the Saiyan way."**
 >
 > 🔄 *Atualizada semanalmente para te manter motivado!*
 
