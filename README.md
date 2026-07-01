@@ -8,7 +8,7 @@
 
 ## 📜 Frase da Semana
 
-> **"Ugly bugs → beautiful code. That’s the Saiyan way."**
+> **"Every stack trace is a trail of growth. Follow it. Evolve."**
 >
 > 🔄 *Atualizada semanalmente para te manter motivado!*
 
