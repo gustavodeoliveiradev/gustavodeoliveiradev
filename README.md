@@ -8,7 +8,7 @@
 
 ## 📜 Frase da Semana
 
-> **"Every stack trace is a trail of growth. Follow it. Evolve."**
+> **"A bug fixed is a world opened. That's the power of a developer."**
 >
 > 🔄 *Atualizada semanalmente para te manter motivado!*
 
