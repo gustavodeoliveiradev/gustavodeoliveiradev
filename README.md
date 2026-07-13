@@ -8,7 +8,7 @@
 
 ## 📜 Frase da Semana
 
-> **"A bug fixed is a world opened. That's the power of a developer."**
+> **"Smart code solves problems. Strong code survives them."**
 >
 > 🔄 *Atualizada semanalmente para te manter motivado!*
 
