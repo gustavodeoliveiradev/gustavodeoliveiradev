@@ -8,7 +8,7 @@
 
 ## 📜 Frase da Semana
 
-> **"Smart code solves problems. Strong code survives them."**
+> **"The only difference between a junior and a senior? The senior just kept typing."**
 >
 > 🔄 *Atualizada semanalmente para te manter motivado!*
 
