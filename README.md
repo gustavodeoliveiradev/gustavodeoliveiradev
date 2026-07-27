@@ -8,7 +8,7 @@
 
 ## 📜 Frase da Semana
 
-> **"The only difference between a junior and a senior? The senior just kept typing."**
+> **"No book will teach you what a broken code can. Get your hands dirty."**
 >
 > 🔄 *Atualizada semanalmente para te manter motivado!*
 
