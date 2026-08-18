@@ -6,6 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:264653,50:2A9D8F,100:8ECAE6&height=180&section=header&text=Gustavo%20de%20Oliveira&fontSize=42&fontColor=FFFFFF&fontAlignY=42" width="100%" alt="Banner">
 </picture>
 
+# Gustavo de Oliveira
 ### Frontend Developer | JavaScript · React · CSS3
 
 <a href="https://www.linkedin.com/in/lgustavodeoliveira/"><img src="https://img.shields.io/badge/LinkedIn-264653?style=for-the-badge&logo=linkedin&logoColor=8ECAE6" alt="LinkedIn"></a>
